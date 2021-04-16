@@ -24,3 +24,4 @@ new genericClass('foo', 3)
 
 
 
+
